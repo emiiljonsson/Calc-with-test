@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ejons\\source\\repos\\Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA46307D-D4E1-4EFE-B8D4-9F39DF956D0C}|CalculatorTests\\CalculatorTests.csproj|c:\\users\\ejons\\source\\repos\\calculator\\calculatortests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA46307D-D4E1-4EFE-B8D4-9F39DF956D0C}|CalculatorTests\\CalculatorTests.csproj|solutionrelative:calculatortests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA46307D-D4E1-4EFE-B8D4-9F39DF956D0C}|CalculatorTests\\CalculatorTests.csproj|c:\\users\\ejons\\source\\repos\\calculator\\calculatortests\\calculatortests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CA46307D-D4E1-4EFE-B8D4-9F39DF956D0C}|CalculatorTests\\CalculatorTests.csproj|solutionrelative:calculatortests\\calculatortests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E91F88-39BA-4A41-AD78-3BD554AA0FBB}|Calculator\\Calculator.csproj|c:\\users\\ejons\\source\\repos\\calculator\\calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E91F88-39BA-4A41-AD78-3BD554AA0FBB}|Calculator\\Calculator.csproj|solutionrelative:calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E91F88-39BA-4A41-AD78-3BD554AA0FBB}|Calculator\\Calculator.csproj|c:\\users\\ejons\\source\\repos\\calculator\\calculator\\calc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E91F88-39BA-4A41-AD78-3BD554AA0FBB}|Calculator\\Calculator.csproj|solutionrelative:calculator\\calc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculatorTests",
+              "DocumentMoniker": "C:\\Users\\ejons\\source\\repos\\Calculator\\CalculatorTests\\CalculatorTests.csproj",
+              "RelativeDocumentMoniker": "CalculatorTests\\CalculatorTests.csproj",
+              "ToolTip": "C:\\Users\\ejons\\source\\repos\\Calculator\\CalculatorTests\\CalculatorTests.csproj",
+              "RelativeToolTip": "CalculatorTests\\CalculatorTests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-17T13:11:48.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\ejons\\source\\repos\\Calculator\\CalculatorTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "CalculatorTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\ejons\\source\\repos\\Calculator\\CalculatorTests\\UnitTest1.cs",
+              "RelativeToolTip": "CalculatorTests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T13:09:59.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Calc.cs",
+              "DocumentMoniker": "C:\\Users\\ejons\\source\\repos\\Calculator\\Calculator\\Calc.cs",
+              "RelativeDocumentMoniker": "Calculator\\Calc.cs",
+              "ToolTip": "C:\\Users\\ejons\\source\\repos\\Calculator\\Calculator\\Calc.cs",
+              "RelativeToolTip": "Calculator\\Calc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T06:57:37.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ejons\\source\\repos\\Calculator\\Calculator\\Program.cs",
+              "RelativeDocumentMoniker": "Calculator\\Program.cs",
+              "ToolTip": "C:\\Users\\ejons\\source\\repos\\Calculator\\Calculator\\Program.cs",
+              "RelativeToolTip": "Calculator\\Program.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAwwIQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T08:40:21.038Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
